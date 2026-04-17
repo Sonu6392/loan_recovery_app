@@ -458,7 +458,6 @@ class CustomerDetail extends StatelessWidget {
 
                       ],
                     ),
-
                     SizedBox(height: 4,),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
